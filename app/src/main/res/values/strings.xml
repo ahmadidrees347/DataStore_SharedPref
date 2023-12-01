@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Data Store - Shared Pref</string>
+    <string name="save">Save</string>
+    <string name="clear_data">Clear Data</string>
+    <string name="read">Read</string>
+    <string name="enter_key">Enter key...</string>
+    <string name="enter_value">Enter value...</string>
+    <string name="enter_pin_code">Enter Pin CODE...</string>
+    <string name="result">Result</string>
+</resources>
