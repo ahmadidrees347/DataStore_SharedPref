@@ -1,10 +1,13 @@
 <resources>
-    <string name="app_name">Data Store - Shared Pref</string>
+    <string name="app_name">Realm Db</string>
+    <string name="update">Update</string>
     <string name="save">Save</string>
-    <string name="clear_data">Clear Data</string>
-    <string name="read">Read</string>
-    <string name="enter_key">Enter key...</string>
-    <string name="enter_value">Enter value...</string>
-    <string name="enter_pin_code">Enter Pin CODE...</string>
-    <string name="result">Result</string>
+
+    <string name="search_user_name">Search User Name</string>
+    <string name="enter_user_name">Enter User Name</string>
+    <string name="enter_age">Enter Age</string>
+    <string name="enter_temporary_address">Enter Temporary Address</string>
+    <string name="enter_permanent_address">Enter Permanent Address</string>
+    <string name="enter_street_name">Enter Street Name</string>
+    <string name="enter_region_name">Enter Region Name</string>
 </resources>
